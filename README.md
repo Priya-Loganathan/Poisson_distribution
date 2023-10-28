@@ -1,5 +1,4 @@
-# Fitting Poisson  distribution
-
+# Ex no 2 - Fitting Poisson distribution
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
@@ -65,7 +64,7 @@ else:
 
 # Output : 
 
-
+![image](https://github.com/Priya-Loganathan/Poisson_distribution/assets/121166075/2306d06a-0822-4646-8dab-b8c55b47f88c)
 
 # Results
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
